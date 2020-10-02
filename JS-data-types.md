@@ -1,1 +1,1 @@
-# JS data type Bytes
+# JavaScript
